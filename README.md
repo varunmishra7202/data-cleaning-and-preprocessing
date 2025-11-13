@@ -44,7 +44,9 @@ Assignments and portfolio projects
 ---
 
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/12a90f66-24f6-4a1f-ac0a-75c87699e88b" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5c0a0d94-a081-453a-9304-98f8e8c0ac36" />
+
 
 
 
